@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Youtube',
-					link: 'https://www.youtube.com',
+					name: 'MonkeyType',
+					link: 'https://www.monkeytype.com',
 				},
 			],
 		},
