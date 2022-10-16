@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Sterny',
 	imageBackground: false,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
