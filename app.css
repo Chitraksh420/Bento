@@ -19,9 +19,8 @@ html, body {
 
 body {
     background-image: url('/Users/Chitraksh/Downloads/background.jpg');
-    background: linear-gradient(-45deg, #f5f5f5, #490085);
-    background-size: 400% 400%;
-    animation: gradient 20s ease infinite;
+    background-repeat: no-repeat
+    background-size: cover;
 }
 
 @keyframes gradient {
