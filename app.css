@@ -115,7 +115,7 @@ body {
 
 #themeButton {
   position: absolute;
-  margin: 2em 2em 0 0;
+  margin: 3em 3em 0 0;
   right: 0;
   top: 0;
   color: var(--fg);
@@ -147,7 +147,7 @@ body {
 
 .card:hover {
   transform: translateY(-0.2rem);
-  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 10px 10px rgba(31, 81, 255, 0.35);
 }
 
 .timeBlock {
