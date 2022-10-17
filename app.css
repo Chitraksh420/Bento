@@ -18,7 +18,7 @@ height:100%;
 }
 
 body {
-background: linear-gradient(-45deg, #f5f5f5, #490085, #00333f, #000000);
+background: linear-gradient(-45deg, #f5f5f5, #490085);
 background-size: 400% 400%;
 animation: gradient 20s ease infinite;
 }
@@ -67,8 +67,8 @@ animation: gradient 20s ease infinite;
   --cards: #201e21; /* Cards color */
 
   /* Fonts Color */
-  --fg: #88ff00; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #ff00ae; /* Foreground color */
+  --sfg: #2c367e; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
