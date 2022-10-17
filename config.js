@@ -141,7 +141,19 @@ const CONFIG = {
 				{
 					name: 'Music',
 					link: 'https://www.spotify.com',
-				}
+				},
+				{
+					name: 'Epic Music',
+					link: 'https://www.spotify.com',
+				},
+				{
+					name: 'Very Epic Music',
+					link: 'https://www.spotify.com',
+				},
+				{
+					name: 'More Epic Music',
+					link: 'https://www.spotify.com',
+				};
 			],
 		},
 		{
