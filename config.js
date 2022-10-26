@@ -173,7 +173,7 @@ const CONFIG = {
 					link: 'https://www.twitch.com',
 				},
 				{
-					name: 'Useless Button',
+					name: '404',
 				},
 			],
 		},
