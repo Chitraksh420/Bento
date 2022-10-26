@@ -174,7 +174,6 @@ const CONFIG = {
 				},
 				{
 					name: 'Useless Button',
-					link: '',
 				},
 			],
 		},
