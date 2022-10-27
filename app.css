@@ -10,7 +10,7 @@
 //  ┘ ┴ ┴┴└─┴┴ ┴└─┘┴─┘└─┘└─┘ 
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+@import url('https://fonts.googleapis.com/css?family=Courier Prime'); /* Font Import */
 
 html, body {
     width: 100%;
@@ -88,7 +88,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Courier New', monospace;
+  font-family: 'Courier Prime', monospace;
   transition: 0.2s ease-in-out;
 }
 
