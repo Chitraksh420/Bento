@@ -161,19 +161,19 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Spotify',
+					name: 'SPOTIFY',
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'MonkeyType',
+					name: 'MONKEYTYPE',
 					link: 'https://www.monkeytype.com',
 				},
 				{
-					name: 'Twitch',
+					name: 'TWITCH',
 					link: 'https://www.twitch.com',
 				},
 				{
-					name: 'Symbolab',
+					name: 'SYMBOLAB',
 					link: 'https://www.symbolab.com',
 				},
 			],
