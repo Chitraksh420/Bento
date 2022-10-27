@@ -10,7 +10,7 @@
 //  ┘ ┴ ┴┴└─┴┴ ┴└─┘┴─┘└─┘└─┘ 
  */
 
-@import url('https://fonts.googleapis.com/css?family=FLow Block'); /* Font Import */
+@import url('https://fonts.googleapis.com/css?family=Source Code Pro'); /* Font Import */
 
 html, body {
     width: 100%;
@@ -88,7 +88,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Flow Block';
+  font-family: 'Source Code Pro';
   transition: 0.2s ease-in-out;
 }
 
