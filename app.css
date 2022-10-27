@@ -88,7 +88,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'monospace';
+  font-family: 'Courier New', monospace;
   transition: 0.2s ease-in-out;
 }
 
