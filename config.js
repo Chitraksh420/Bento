@@ -173,7 +173,8 @@ const CONFIG = {
 					link: 'https://www.twitch.com',
 				},
 				{
-					name: '404',
+					name: 'Symbolab',
+					link: 'https://www.symbolab.com',
 				},
 			],
 		},
